@@ -5,7 +5,7 @@
 	"type": "project",
 	"license": "private use",
 	"minimum-stability": "stable",
-	"version": "0.1.4",
+	"version": "1.0.0",
 	"require": {
 		"kartik-v/bootstrap-checkbox-x": "^1.5",
 		"kartik-v/bootstrap-fileinput": "^5.2",
