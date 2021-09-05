@@ -1,7 +1,7 @@
 p2y2-kartik-collection
 ======================
 
-A convenience package for adding a bunch of kartik-v packages.
+A convenience package for adding a bunch of [kartik-v](https://github.com/kartik-v) packages.
 
 # Installation
 
