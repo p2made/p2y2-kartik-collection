@@ -1,7 +1,6 @@
-p2y2-kartik-collection
-======================
+# p2y2-kartik-collection
 
-A convenience package for adding a bunch of [kartik-v](https://github.com/kartik-v) packages.
+A convenience package for adding a bunch of [kartik-v](https://github.com/kartik-v) packages to Yii2 projects.
 
 # Installation
 
